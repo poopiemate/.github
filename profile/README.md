@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/poochie-wave.webp" width="140" alt="Poochie, the PoopieMate mascot, waving hello">
+<img src="assets/poochie-wave.webp" width="140" alt="Poochie, the POOPIEMATE mascot, waving hello">
 
-# PoopieMate · 응가메이트
+# POOPIEMATE · 응가메이트
 
 **Your dog’s potty log, shared with the whole family.**<br>
 가족이 함께 보는 우리 강아지 응가 기록.
 
-<a href="https://poopiemate.com/en/"><img src="assets/poopiemate-banner.jpg" alt="PoopieMate" width="720"></a>
+<a href="https://poopiemate.com/en/"><img src="assets/poopiemate-banner.jpg" alt="POOPIEMATE" width="720"></a>
 
 “Did Poochie poop?” — no need to ask anymore.<br>
 When one person logs a poop, pee or walk, everyone in the family gets an alert right away.
